@@ -30,7 +30,7 @@
 		<div id="content" style=" font-family:Verdana !important; font-size:12px !important; ">
 		This page was created using the wonderful <a href="http://jstree.com/">jsTree</a> library.
 		<p>
-		You can find it at <a href="https://jstree.com/">http://jstree.com/</a>.
+		You can find it at <a href="https://jstree.com/">https://jstree.com/</a>.
 		<p>
 		Enjoy! ^_^
 		<p>
