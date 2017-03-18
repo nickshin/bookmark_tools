@@ -38,7 +38,7 @@
 		<p>
 		Just in case anyone is interested in knowing how to streamline their JSON bookmarks
 		to be used with the jsTree library, please visit my
-		<a href="http://www.estss.com/opensource/bkmkscrub/">Bookmark Scrubber</a> project.
+		<a href="https://github.com/nickshin/bookmark_tools">Bookmark Tools</a> on github.
 		(and of course, view source)
 		</div>
 	</div>
