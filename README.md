@@ -85,15 +85,11 @@ Options are:
 
 Take a look at the following bookmark library example.
 
-![bookmark library example](http://imgur.com/PzNkZVH.png)
-
 ![bookmark library example](https://github.com/nickshin/bookmark_tools/raw/master/img/example_library.png)
 
 By just glancing, you will be able to quickly tell which folders and files will be ~~scrubbed out~~ -- as well as which ones will be displayed in **bold**.
 
 After running the commands shown in the [quick start](#quick-start) section, here is the result of this example.
-
-![bookmarks online](http://imgur.com/Ek5Yo62.png)
 
 ![bookmarks online](https://github.com/nickshin/bookmark_tools/raw/master/img/example_live.png)
 
