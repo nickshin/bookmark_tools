@@ -51,8 +51,8 @@ echo date( "F d, Y", filemtime( "jstree-data.json" ) );
 ?>
 </div>
 
-<script src="ext/jquery/3.1.1/jquery.min.js"></script>
-<script src="ext/jstree/3.3.3/jstree.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jstree/3.3.3/jstree.min.js"></script>
 <script>
 	var $jt_everything = null;
 	var $jt_folders = null;
