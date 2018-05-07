@@ -95,11 +95,7 @@ After running the commands shown in the [quick start](#quick-start) section, her
 
 ## Live Demo
 
-View my latest [bookmarks online](http://nickshin.com/bookmarks.php).
-
-## Donate
-
-[![Donate to author](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ETBVU24F5JDC6)
+View my latest [bookmarks online](https://nickshin.com/bookmarks.html).
 
 ## License
 
