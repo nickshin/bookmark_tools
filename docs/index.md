@@ -79,7 +79,7 @@ can be exported.  Some items I filter out includes:
 
 Bookmarks with personal folders that I do not wish to be made public.
 
-##### In a nutt shell
+#### In a nutt shell
 
 The ability to sync bookmark data a little less painful meant sticking with
 a human readable JSON data format.  This still allows for rapid backup and
@@ -92,10 +92,10 @@ Diff of human readable streamlined JSON dataset.
 
 * * *
 
-##### A project using the Bookmark Scrubber
+#### A project using the Bookmark Scrubber
 
 An example of using the generated bookmark scrubber output would be
-[my bookmarks](/bookmark_tools/demo/index.html) available online.
+[MY BOOKMARKS](/bookmark_tools/demo/index.html) available online.
 
 
 ```
