@@ -5,7 +5,7 @@ Bookmark Tools
 
 #### Download
 
-*   [https://github.com/nickshin/bookmark_tools/](https://github.com/nickshin/bookmark_tools/).
+*   [https://github.com/nickshin/bookmark_tools/](https://github.com/nickshin/bookmark_tools/)
 
 #### Project Description
 
@@ -18,7 +18,7 @@ I have tried using the following extensions:
 *    [Xmarks Sync](https://en.wikipedia.org/wiki/Xmarks_Sync) (formerly FoxMarks -- also, just recently shut down)
 *    [Firefox Sync](https://www.mozilla.org/en-US/firefox/features/sync/) finally, a native bookmark syncing feature
 
-But all of these didn't solve a few problems I was having. 
+But all of these didn't solve a few problems I was having.
 
 
 ##### Issue #1: sync
@@ -44,7 +44,8 @@ entry in addition to the description data that's kept on a separate line:
 
 *    SHORTCUTURL="..."
 
-![diff mess](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![diff mess](img/diff_html_mess.jpg)
+
 Diff with false postive changes (in red) with interested valid ones (in blue).
 
 ##### Issue #2: scrub
@@ -75,6 +76,7 @@ can be exported.  Some items I filter out includes:
 *    etc.
 
 ![bookmarks sample](img/bkmks_sample.jpg)
+
 Bookmarks with personal folders that I do not wish to be made public.
 
 ##### In a nutt shell
@@ -84,7 +86,8 @@ a human readable JSON data format.  This still allows for rapid backup and
 restoration.  And, this allows me to use basic revision control systems to
 track which bookmarks were deleted, moved or edited.
 
-![bookmarks json](img/bkmks_json.jpg)
+![bookmarks json](img/diff_json.jpg)
+
 Diff of human readable streamlined JSON dataset.
 
 * * *
