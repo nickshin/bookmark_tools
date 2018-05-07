@@ -95,7 +95,7 @@ After running the commands shown in the [quick start](#quick-start) section, her
 
 ## Live Demo
 
-View my latest [bookmarks online](https://nickshin.com/bookmarks.html).
+View my latest [bookmarks online](https://nickshin.com/bookmark_tools/demo/index.html).
 
 ## FAQ
 

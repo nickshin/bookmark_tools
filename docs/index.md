@@ -95,7 +95,7 @@ Diff of human readable streamlined JSON dataset.
 ##### A project using the Bookmark Scrubber
 
 An example of using the generated bookmark scrubber output would be
-[my bookmarks](demo/bookmarks.html) available online.
+[my bookmarks](/bookmark_tools/demo/index.html) available online.
 
 
 ```
