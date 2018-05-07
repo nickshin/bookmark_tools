@@ -97,6 +97,19 @@ After running the commands shown in the [quick start](#quick-start) section, her
 
 View my latest [bookmarks online](https://nickshin.com/bookmarks.html).
 
+## FAQ
+
+### How can I make this fully automatic with my latest bookmarks?
+
+Use (for example) [lz4jsoncat](https://github.com/andikleen/lz4json) with these tools:
+
+```sh
+BKMRKS=~/.mozilla/firefox/*.default/bookmarkbackups; ./lz4jsoncat $BKMRKS/`ls -t $BKMRKS | head -1` | \
+	python bookmarks_scrubber.py -s | python bookmarks_jstree.py > jstree-data.json
+```
+
+See the following [stackexchange post](https://unix.stackexchange.com/questions/326897/how-to-decompress-jsonlz4-files-firefox-bookmark-backups-using-the-command-lin/338880) for additional information on how to build lz4jsoncat.
+
 ## License
 
 [Unlicense](http://unlicense.org/)
