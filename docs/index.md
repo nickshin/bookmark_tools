@@ -1,11 +1,7 @@
-
 ---
-Bookmark Tools
+layout: default
+title: Bookmark Tools
 ---
-
-#### Download
-
-*   [https://github.com/nickshin/bookmark_tools/](https://github.com/nickshin/bookmark_tools/)
 
 #### Project Description
 
@@ -21,14 +17,14 @@ I have tried using the following extensions:
 But all of these didn't solve a few problems I was having.
 
 
-##### Issue #1: sync
+#### Issue #1: sync
 
 On my day to day operations, I work on a lot of different computers.
 A few at the office, a few at my home, portables, etc.
 Every now and then, my bookmarks on one computer doesn't match those on my
 other ones.  ~~And it gets to be a real pain in the @$$ to try and re-sync
 them.~~ (Firefox sync and sync tabs has come a long way providing this
-exact feature -- and I really like it.)
+exact feature -- and I really like it. But... see issue #2.)
 
 The bookmarks, either in the HTML format or the JSON file (that's smashed
 in to one line), contains extra data that I don't really need.
@@ -48,7 +44,7 @@ entry in addition to the description data that's kept on a separate line:
 
 Diff with false postive changes (in red) with interested valid ones (in blue).
 
-##### Issue #2: scrub
+#### Issue #2: scrub
 
 Storing the bookmarks online sounded fun, but I wanted to do it with one
 caveat.  Xmarks has private features as well as hosting bookmarks on your
