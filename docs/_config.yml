@@ -8,4 +8,4 @@ jailed: false
 theme: jekyll-theme-slate
 gfm_quirks: paragraph_end
 github:
-  repository_url: "https://github.com/nickshin/bookmarks_tools"
+  repository_url: "https://github.com/nickshin/bookmark_tools"
