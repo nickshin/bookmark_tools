@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #
 # Bookmark Tools - JsTree
-# written by Nick Shin - nshin@estss.com
+# written by Nick Shin - nick.shin@gmail.com
 # created Feb 9 2011
 #
 # ==============================================================================

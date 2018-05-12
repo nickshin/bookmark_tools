@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #
 # Bookmark Tools - Scrubber
-# written by Nick Shin - nshin@estss.com
+# written by Nick Shin - nick.shin@gmail.com
 # created Oct 5 2010
 #
 # ==============================================================================
